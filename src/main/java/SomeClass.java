@@ -12,4 +12,8 @@ public class SomeClass {
         System.out.println("Hello World again");
     }
 
+    public void method3() {
+        System.out.println("Hello World again");
+    }
+
 }
